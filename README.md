@@ -40,3 +40,12 @@ A simple, responsive calculator built using **HTML**, **CSS**, and **JavaScript*
 
 ```bash
 git clone https://github.com/naiduhydra/calculator-hcj.git
+
+
+---
+
+Let me know if you’d like to add:
+- GitHub stats badges
+- Dark/light mode toggle
+- Or a `preview.png` image if you want to upload a screenshot.
+
