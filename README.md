@@ -31,3 +31,12 @@ A simple, responsive calculator built using **HTML**, **CSS**, and **JavaScript*
 
 ## 📁 Folder Structure
 
+
+---
+
+## 🚀 How to Use
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/naiduhydra/calculator-hcj.git
