@@ -31,7 +31,6 @@ A simple, responsive calculator built using **HTML**, **CSS**, and **JavaScript*
 
 ## 📁 Folder Structure
 
-
 ---
 
 ## 🚀 How to Use
