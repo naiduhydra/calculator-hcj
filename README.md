@@ -12,7 +12,7 @@ A simple, responsive calculator built using **HTML**, **CSS**, and **JavaScript*
 - Clear (C) and Delete (⌫) buttons
 - Responsive layout for both desktop and mobile
 - Simple and minimal design
-
+- 
 ---
 
 ## 🛠️ Built With
